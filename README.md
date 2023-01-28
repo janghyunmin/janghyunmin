@@ -4,12 +4,12 @@
 
 
 
-[![Skills](https://widget.realdeveloper.pro/api/top?stack=Java,Kotlin,MariaDB)](https://github.com/janghyunmin)
+[![Skills](https://widget.realdeveloper.pro/api/top?stack=Kotlin,Java,MariaDB)](https://github.com/janghyunmin)
 
 
 
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Java,Kotlin,PHP,Python,C,JavaScript,Firebase,Apache,MariaDB,MySQL)](https://github.com/janghyunmin)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Kotlin,Java,React-Native,PHP,Python,C,JavaScript,Firebase,Apache,MariaDB,MySQL)](https://github.com/janghyunmin)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=stockInfomation)](https://github.com/janghyunmin/stockInfomation)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=StockApp)](https://github.com/janghyunmin/StockApp)
@@ -23,7 +23,7 @@
 <br>
 
 
-![janghyunmin github stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&show_icons=true&theme=highcontrast)
+<!-- ![janghyunmin github stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&show_icons=true&theme=highcontrast) -->
 
 <br>
 <br>
@@ -63,7 +63,7 @@
 - 🌱 I’m currently learning developing
 - 👯 I’m looking to collaborate on yours
 - 💬 Ask me about response
-- 🤔 I’m looking for help with [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkd556@gmail.com)](mailto:wkd556@gmail.com)
+- 🤔 I’m looking for help with [![Gmail Badge](https://img.shields.io/badge/Naver-2DB400?style=flat-square&logo=Naver&logoColor=white&link=mailto:gusals456@naver.com)](mailto:gusals456@naver.com)
 
 
 
