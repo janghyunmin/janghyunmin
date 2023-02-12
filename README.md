@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)
+
 #### Hi there 👋👩‍💻
 
 
@@ -34,7 +34,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin&layout=compact)](https://github.com/anuraghazra/github-readme-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin&layout=compact)
 <pre><code>💻   **I'm a AOS Develover**        </code></pre>
 
 <br>
