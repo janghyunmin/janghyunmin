@@ -14,6 +14,7 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=stockInfomation)](https://github.com/janghyunmin/stockInfomation)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=StockApp)](https://github.com/janghyunmin/StockApp)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=MoneyPot)](https://github.com/janghyunmin/MoneyPot)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=piece-v1)](https://github.com/janghyunmin/piece-v1.git)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=PIECE_Local)](https://github.com/janghyunmin/PIECE_Local)
 
 
@@ -32,9 +33,14 @@
 <br>
 <br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin&layout=compact)](https://github.com/anuraghazra/github-readme-
 <pre><code>💻   **I'm a AOS Develover**        </code></pre>
 
+<br>
+
+stats)
+</br>
 </br>
 <p align="left">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
@@ -42,8 +48,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </br>
 
 </br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
