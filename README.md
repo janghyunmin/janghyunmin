@@ -44,6 +44,9 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Kotlin,Java,React-Native,PHP,Python,C,JavaScript,Firebase,Apache,MariaDB,MySQL)](https://github.com/janghyunmin)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&theme=transparent&repo=PIECE_Local)](https://github.com/janghyunmin/PIECE_Local)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&theme=transparent&repo=piece-v2-local)](https://github.com/janghyunmin/piece-v2-local.git)
+
+
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=piece-v1)](https://github.com/janghyunmin/piece-v1.git)
 <br></br>
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=stockInfomation)](https://github.com/janghyunmin/stockInfomation)
