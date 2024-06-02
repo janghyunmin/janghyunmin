@@ -12,6 +12,50 @@
  <!-- ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) -->
 </h3>
 
+
+<h3>
+- To-do Record every day
+  <br><br>
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
+      <br>
+      <a href="https://velog.io/@kk_jang93/posts">
+        <img src="https://velog-readme-stats.vercel.app/api?name=kk_jang93" alt="Velog's GitHub stats">
+      </a>
+    </td>
+    <td>
+      <!-- Notion -->
+      <a href="https://www.notion.so/Notion-JHM-f21e926f21f94427a3c51d5f844bb086?pvs=4" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" style="vertical-align: middle;">
+        <img width="512" alt="image" src="https://github.com/janghyunmin/janghyunmin/assets/30715395/3a5f954c-c7a8-4fa7-8661-5a837d8d261c">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</h3>
+
+
+<h4 align="center">
+  <table>
+    <tr>
+      <td>
+         <a href="https://github.com/janghyunmin/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin" alt="Top Langs" width="400" height="200">
+        </a>
+      </td>
+      <td>
+        <a href="https://git.io/awesome-stats-card">
+          <img src="https://awesome-github-stats.azurewebsites.net/user-stats/janghyunmin?cardType=github&theme=ayu-mirage&preferLogin=false" alt="My Awesome Stats" width="400" height="200">
+        </a>
+      </td>
+    </tr>
+  </table>
+</h4>
+
+
 <br>
 
 ### IDE (통합 개발 환경)
@@ -58,47 +102,6 @@
 ![Zeplin](https://img.shields.io/badge/Zeplin-FFE71E?style=flat-square&logo=zeplin&logoColor=white)
 
 <br><br>
-<h3>
-- To-do Record every day
-  <br><br>
-
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog"> <br>
-<a href="https://velog.io/@kk_jang93/posts">
-    <img src="https://velog-readme-stats.vercel.app/api?name=kk_jang93" alt="Velog's GitHub stats">
-</a>
-
-<!-- Notion -->
-<br>
-
-<a href="https://www.notion.so/Notion-JHM-f21e926f21f94427a3c51d5f844bb086?pvs=4" style="text-decoration: none;"> 
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" style="vertical-align: middle;"> <br>
-  <span style="font-size: 14px; display: flex; align-items: center;">kkjang_93 Notion</span> <br><br>
-  <img width="512" alt="image" src="https://github.com/janghyunmin/janghyunmin/assets/30715395/3a5f954c-c7a8-4fa7-8661-5a837d8d261c">
-</a>
-</h3>
-
-
-
-#
-<h4 align="center">
-
-### GitHub Stats
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&show_icons=true&theme=dracula) -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/janghyunmin?cardType=github&theme=ayu-mirage&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
-### Language Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin)](https://github.com/janghyunmin/github-readme-stats)
-
-
-
-
-
-
-<!-- ## 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janghyunmin&repo=github-readme-stats)](https://github.com/janghyunmin/github-readme-stats) -->
-</h4>
 
 ## Contact Me
 - 🔭 I’m currently working on project
