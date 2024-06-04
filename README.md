@@ -12,7 +12,6 @@
  <!-- ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) -->
 </h3>
 
-
 <h3>
 - To-do Record every day
   <br><br>
@@ -22,7 +21,7 @@
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
       <br>
       <a href="https://velog.io/@kk_jang93/posts">
-        <img src="https://velog-readme-stats.vercel.app/api?name=kk_jang93" alt="Velog's GitHub stats">
+        <img src="https://velog-readme-stats.vercel.app/api/list?name=kk_jang93" alt="Velog's GitHub stats">
       </a>
     </td>
     <td>
