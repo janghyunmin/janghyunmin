@@ -1,20 +1,24 @@
 
 <h3 align="center">
 
+<!-- 
   <br>
   <img src="https://github.com/janghyunmin/janghyunmin/blob/main/kkjang_93_intro.gif?raw=true" alt="QuickTime Video" width="700" heigth="300">
-  <br>
-
-  
+  <br> -->
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=40&lines=Android+Developer+kkjang_93)](https://git.io/typing-svg)
 
+<br>
+
+ <img src="https://myreadme.vercel.app/api/embed/janghyunmin?panels=userstatistics,toprepositories,toplanguages,commitgraph,userwelcome" alt="reimaginedreadme" />
  <!-- ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) -->
 </h3>
 
+<br>
+
 <h3>
-- To-do Record every day
-  <br><br>
+  
+### To-do Record every day
 <table>
   <tr>
     <td>
@@ -37,6 +41,7 @@
 </h3>
 
 
+<!-- 
 <h4 align="center">
   <table>
     <tr>
@@ -52,10 +57,12 @@
       </td>
     </tr>
   </table>
-</h4>
+</h4> -->
 
 
 <br>
+
+---------
 
 ### IDE (통합 개발 환경)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20studio&logoColor=white)
@@ -100,13 +107,28 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-FFE71E?style=flat-square&logo=zeplin&logoColor=white)
 
-<br><br>
+---------
+
+<br>
+
+## 개인 프로젝트 진행중 🌱
+### 2024. 06. 01 ~ 2024. 08. 01 <br>
+디자인 <br> 
+<a href="https://www.figma.com/design/pzVSNSQWwgPEvYIk9QByXZ/%EB%9D%BC%EC%9D%B4%EC%96%B8's-team-library?node-id=0-1&t=0Qayqvt5Kll2FRLt-0">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Notion" style="vertical-align: middle;"> <br>
+    
+  프로젝트 
+  <br> 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=janghyunmin&repo=lotto)](https://github.com/janghyunmin/lotto)
+</a>
+  
+
+
+<br>
 
 ## Contact Me
-- 🔭 I’m currently working on project
-- 🌱 I’m currently learning developing
-- 👯 I’m looking to collaborate on yours
-- 💬 Ask me about response
+- 🔭 항상 도전하고 배우려는 개발자
+- 👯 언제나 환영합니다 !
+- 💬 무엇이든 물어보세요 :) 
 - 📱 010-5052-2670
-- 🤔 I’m looking for help with Naver Badge
-
+- :email: gusals456@naver.com / wkd556@gmail.com
