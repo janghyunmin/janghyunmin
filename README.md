@@ -30,7 +30,7 @@
     </td>
     <td>
       <!-- Notion -->
-      <a href="https://www.notion.so/Notion-JHM-f21e926f21f94427a3c51d5f844bb086?pvs=4" style="text-decoration: none;">
+      <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a?pvs=4" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" style="vertical-align: middle;">
         <img width="512" alt="image" src="https://github.com/janghyunmin/janghyunmin/assets/30715395/3a5f954c-c7a8-4fa7-8661-5a837d8d261c">
       </a>
