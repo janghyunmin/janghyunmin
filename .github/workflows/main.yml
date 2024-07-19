@@ -7,15 +7,10 @@ name: Generate Snake
 on:
   schedule:
     # 6시간마다 한 번(수정 가능)
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
 
   # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
-
-   # run on every push on the master branch
-  push:
-    branches:
-    - main
 
 jobs:
   build:
@@ -39,7 +34,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
