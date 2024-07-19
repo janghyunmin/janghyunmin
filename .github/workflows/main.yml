@@ -12,6 +12,11 @@ on:
   # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
 
+   # run on every push on the master branch
+  push:
+    branches:
+    - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -34,7 +39,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
