@@ -1,7 +1,7 @@
 <!-- <img src="https://myreadme.vercel.app/api/embed/janghyunmin?panels=userstatistics,toprepositories,toplanguages" alt="reimaginedreadme" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&theme=vue-dark&show_icons=true) -->
 
-<img src="https://github.com/janghyunmin/janghyunmin/blob/output/github-snake-dark.svg" width="100%">
+![snake gif](https://github.com/janghyunmin/janghyunmin/blob/output/github-contribution-grid-snake.svg)
 
 <span>
   <a href="https://velog.io/@kk_jang93/posts">
