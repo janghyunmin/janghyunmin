@@ -1,6 +1,8 @@
 <!-- <img src="https://myreadme.vercel.app/api/embed/janghyunmin?panels=userstatistics,toprepositories,toplanguages" alt="reimaginedreadme" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&theme=vue-dark&show_icons=true) -->
 
+<img src="https://github.com/janghyunmin/janghyunmin/blob/output/github-snake-dark.svg" width="100%">
+
 <span>
   <a href="https://velog.io/@kk_jang93/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
@@ -13,10 +15,9 @@
   </a>
   
 </span>
-
-
-      
 <br>
+
+
 
 
 <a href="https://github.com/janghyunmin/github-readme-stats">
