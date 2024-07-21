@@ -6,9 +6,10 @@
 <!-- -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-
-
-<h2>👋 안녕하세요, 장현민의 Github 입니다. <br></h2>
+<h2>
+  <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">👉🏻 장현민 이력서</a>
+  <br>
+</h2>
 
 <span>
   <a href ="">
@@ -20,6 +21,7 @@
   <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion">
   </a>
+    
    <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9E%A5-025693268/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="Notion">
   </a>
@@ -30,7 +32,6 @@
 
 <!-- ![snake gif](https://github.com/janghyunmin/janghyunmin/blob/output/github-contribution-grid-snake.svg) -->
 <!-- [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusals456)](https://solved.ac/gusals456) -->
-
 
 <br>
 
