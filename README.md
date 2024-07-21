@@ -9,6 +9,10 @@
 ![깃허브 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghyunmin%2Fjanghyunmin&count_bg=%2366D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
 👋 Hi, I'm Android Developer <br>
+<!-- ![snake gif](https://github.com/janghyunmin/janghyunmin/blob/output/github-contribution-grid-snake.svg) -->
+
+<img src="https://github.com/janghyunmin/janghyunmin/blob/output/github-contribution-grid-snake.svg"/>
+
 
 <!-- [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusals456)](https://solved.ac/gusals456) -->
 
@@ -84,7 +88,9 @@
 </a>
 
 <br>
-<img src="https://github.com/janghyunmin/janghyunmin/blob/output/github-contribution-grid-snake.svg"/>
+
+
+
 
 
 <!-- Footer -->
