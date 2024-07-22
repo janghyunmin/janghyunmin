@@ -20,7 +20,7 @@
   </a>
     
    <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9E%A5-025693268/">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
     <a href=mailto:wkd556@gmail.com> 
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wkd556@gmail.com"> 
