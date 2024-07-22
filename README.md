@@ -6,20 +6,17 @@
 <!-- -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-<h2>
-  <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">👉🏻 장현민 이력서</a>
-  <br>
-</h2>
+<h2>😎 안녕하세요, 안드로이드 개발자 장현민입니다.</h3>
 
 <span>
   <a href ="">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghyunmin%2Fjanghyunmin&count_bg=%2366D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"
   </a>
   <a href="https://velog.io/@kk_jang93/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Velog">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog">
   </a>
   <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio">
   </a>
     
    <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9E%A5-025693268/">
@@ -30,11 +27,7 @@
     </a>  
 </span>
 
-<!-- ![snake gif](https://github.com/janghyunmin/janghyunmin/blob/output/github-contribution-grid-snake.svg) -->
-<!-- [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusals456)](https://solved.ac/gusals456) -->
-
-<br>
-
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=181818&background=CCCCCC00&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9E%A5%ED%98%84%EB%AF%BC+%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg) -->
 
 <details>
 <summary><h3>🛠 Skils</h3>
@@ -87,12 +80,17 @@
 </div>
 </details>
 
+###
+
+<!-- <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">👉🏻 장현민 이력서</a> -->
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/@d03a69d6-1199-4b55-a30a-f314ba021489) <br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusals456)](https://solved.ac/gusals456) 
 
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=janghyunmin&theme=transparent&locale=ko" alt="깃허브 커밋 스택" />
 </div> -->
-
-<br>
 
 <!-- <div>
   <a href="https://velog.io/@kk_jang93/posts">
@@ -100,10 +98,8 @@
   </a>
  </div> -->
 
-
-
 <a href="https://github.com/janghyunmin/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=StockApp,PIECE_Local,MoneyPot" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin&layout=donut&show_icons=true&theme=material-palenight&exclude_repo=StockApp,PIECE_Local,MoneyPot" width=38% />
 </a>    
 <a href="https://github.com/janghyunmin/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=janghyunmin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
