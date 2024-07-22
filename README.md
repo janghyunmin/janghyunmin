@@ -6,29 +6,37 @@
 <!-- -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-<h3>😎 안녕하세요, 안드로이드 개발자 장현민입니다.</h3>
-
-<span>
+<h2>Hi, I'm Android Developer 😎 </h2>
+<h3>안녕하세요, 장현민입니다. ☺️ </h3>
   <a href ="">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghyunmin%2Fjanghyunmin&count_bg=%2366D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"
+  </a>
+    
+[![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/@d03a69d6-1199-4b55-a30a-f314ba021489)
+
+
+## Contact
+<span>
+  
+  <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://velog.io/@kk_jang93/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog">
   </a>
-  <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio">
-  </a>
-    
    <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9E%A5-025693268/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
     <a href=mailto:wkd556@gmail.com> 
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wkd556@gmail.com"> 
     </a>  
+    <br>
+    <h2><a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">👉🏻 장현민의 포트폴리오</a></h2>
 </span>
 
 
-[![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/@d03a69d6-1199-4b55-a30a-f314ba021489)
+<br>
+
 
 
 
@@ -67,8 +75,8 @@
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
    <img src="https://img.shields.io/badge/Zeplin-fdbd39?style=flat&logo=Zeplin&logoColor=white"> <br>
    
-   <br>
-   <h3>:eyes: 이런것도 할줄 알아요 !</h3>
+
+   <h3> + Plus Skils :eyes: </h3>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
