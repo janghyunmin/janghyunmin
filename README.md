@@ -12,7 +12,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghyunmin%2Fjanghyunmin&count_bg=%2366D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"
   </a>
     
-[![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/@d03a69d6-1199-4b55-a30a-f314ba021489)
+[![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489/project/e6fe25d3-7e52-4412-a693-38750250e605.svg)](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489/project/e6fe25d3-7e52-4412-a693-38750250e605)
 
 
 ## Contact
