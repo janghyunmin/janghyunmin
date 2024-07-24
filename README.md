@@ -30,8 +30,8 @@
     <a href=mailto:wkd556@gmail.com> 
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wkd556@gmail.com"> 
     </a>  
-    <br>
-    <h2><a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">👉🏻 장현민의 포트폴리오</a></h2>
+    <!-- <br>
+    <h2><a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">👉🏻 장현민의 포트폴리오</a></h2> -->
 </span>
 
 
