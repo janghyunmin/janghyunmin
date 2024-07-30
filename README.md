@@ -113,7 +113,7 @@
 </a> -->
 
 <!-- 백준 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusals456)](https://solved.ac/gusals456) 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusals456)]() 
 
 <a href="https://github.com/janghyunmin/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyunmin&layout=donut&show_icons=true&theme=nord&exclude_repo=StockApp,PIECE_Local,MoneyPot" width=38% />
