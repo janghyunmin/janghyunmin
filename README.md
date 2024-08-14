@@ -11,7 +11,7 @@
 
 <!-- 인사말 -->
 <h2>Hi, I'm Android Developer :herb: </h2>
-<h3>안녕하세요, 장현민입니다. ☺️ </h3>
+<h3>안녕하세요, 장현민입니다 ☺️ </h3>
 
 [![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/kkjang)
 <span>
