@@ -13,7 +13,8 @@
 <h2>Hi, I'm Android Developer :herb: </h2>
 <h3>안녕하세요, 장현민입니다 ☺️ </h3>
 
-[![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/kkjang)
+<!-- [![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/kkjang) -->
+
 <span>
    <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9E%A5-025693268/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
