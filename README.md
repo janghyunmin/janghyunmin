@@ -16,15 +16,16 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/d03a69d6-1199-4b55-a30a-f314ba021489.svg)](https://wakatime.com/kkjang) -->
 
 <span>
-   <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9E%A5-025693268/">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
-  </a>
-    <!-- <a href=mailto:wkd556@gmail.com> 
+     <!-- <a href=mailto:wkd556@gmail.com> 
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wkd556@gmail.com"> 
     </a> -->
-    <a href=mailto:gusals456@naver.com> 
+   
+   <a href=mailto:gusals456@naver.com> 
       <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:gusals456@naver.com"> 
-    </a>  
+   </a>
+   <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9E%A5-025693268/">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
+   </a>
     <a href="https://cuboid-slipper-c89.notion.site/I-m-Android-Developer-d3cdc938a30f46c6b6a9786c7cb0410a">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio">
     </a>
